@@ -8,7 +8,7 @@ def index():
         <html>
         <body>
             <form action="/greet" method="POST">
-                Enter your name: <input type="text" name="usernam">
+                Enter your name: <input type="text" name="username">
                 <input type="submit" value="Submit">
             </form>
         </body>
